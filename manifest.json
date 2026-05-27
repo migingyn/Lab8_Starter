@@ -2,7 +2,7 @@
     "name": "Lab8-Starter",
     "short_name": "Mikey",
     "description": "A recipe PWA with offline support via service workers",
-    "start_url": "/",
+    "start_url": "/Lab8_Starter/",
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#e07b39",
